@@ -24,5 +24,6 @@ public class P2446 {
             }
             System.out.println("");
         }
+        stdIn.close();
     }
 }

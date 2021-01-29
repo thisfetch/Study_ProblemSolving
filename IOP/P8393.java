@@ -11,5 +11,6 @@ public class P8393 {
             sum += i;
         }
         System.out.println(sum);
+        stdIn.close();
     }
 }

@@ -14,5 +14,6 @@ public class P10952 {
                 System.out.println(a + b);
             }
         } while(a != 0 && b != 0);
+        stdIn.close();
     }
 }

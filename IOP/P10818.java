@@ -24,6 +24,7 @@ public class P10818 {
         }
 
         System.out.println(min + " " + max);
+        stdIn.close();
     }
 
 }

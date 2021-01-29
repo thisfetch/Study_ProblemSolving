@@ -9,5 +9,6 @@ public class P1000 {
         int b = stdIn.nextInt();
 
         System.out.println(a + b);
+        stdIn.close();
     }
 }

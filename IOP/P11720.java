@@ -13,5 +13,6 @@ public class P11720 {
         }
 
         System.out.println(sum);
+        stdIn.close();
     }
 }

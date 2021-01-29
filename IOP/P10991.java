@@ -19,5 +19,6 @@ public class P10991 {
             }
             System.out.println("");
         }
+        stdIn.close();
     }
 }

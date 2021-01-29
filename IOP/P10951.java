@@ -10,5 +10,6 @@ public class P10951 {
             b = stdIn.nextInt();
             System.out.println(a + b);
         }
+        stdIn.close();
     }
 }

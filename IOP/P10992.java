@@ -23,6 +23,6 @@ public class P10992 {
             }
             System.out.println("");
         }
-
+        stdIn.close();
     }
 }

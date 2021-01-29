@@ -12,5 +12,6 @@ public class P10950 {
             b = stdIn.nextInt();
             System.out.println(a + b);
         }
+        stdIn.close();
     }
 }

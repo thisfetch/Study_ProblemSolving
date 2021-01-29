@@ -9,5 +9,6 @@ public class P2741 {
         for (int i = 1; i <= 9; i++) {
             System.out.println(n + " * " + i + " = " + (n * i));
         }
+        stdIn.close();
     }
 }

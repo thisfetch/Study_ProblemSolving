@@ -10,5 +10,6 @@ public class P2558 {
         b = Integer.parseInt(stdIn.nextLine());
 
         System.out.println(a + b);
+        stdIn.close();
     }
 }

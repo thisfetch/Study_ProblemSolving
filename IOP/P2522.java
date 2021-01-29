@@ -22,6 +22,7 @@ public class P2522 {
 				System.out.print("*");
 			System.out.println();
 		}
+		stdIn.close();
 	}
 
 }

@@ -13,5 +13,6 @@ public class P11022 {
                 System.out.println(exam); 
             }
         }
+        stdIn.close();
     }
 }

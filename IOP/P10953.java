@@ -10,5 +10,6 @@ public class P10953 {
             String[] arr = stdIn.next().split(",");
             System.out.println(Integer.parseInt(arr[0]) + Integer.parseInt(arr[1]));
         }
+        stdIn.close();
     }
 }

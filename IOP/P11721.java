@@ -17,5 +17,6 @@ public class P11721 {
         } else {
             System.out.println(arr);
         }
+        stdIn.close();
     }
 }

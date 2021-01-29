@@ -1,13 +1,12 @@
 package IOP;
 import java.util.Scanner;
 
-public class P1152 {
+public class P10998 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
-        String a = stdIn.nextLine();
-        String[] exam = a.split(" ");
-        int b = exam.length;
-        System.out.println(b);
+        int a = stdIn.nextInt();
+        int b = stdIn.nextInt();
         stdIn.close();
+        System.out.print(a * b);
     }
 }

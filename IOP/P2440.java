@@ -15,5 +15,6 @@ public class P2440 {
             }
             System.out.println("");
         }
+        stdIn.close();
     }
 }

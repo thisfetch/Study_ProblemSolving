@@ -30,5 +30,6 @@ public class P2445 {
             }
             System.out.println("");
         }
+        stdIn.close();
     }
 }

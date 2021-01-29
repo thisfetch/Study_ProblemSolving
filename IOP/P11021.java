@@ -12,5 +12,6 @@ public class P11021 {
             b = stdIn.nextInt();
             System.out.println("Case #" + i +": " + (a + b));
         }
+        stdIn.close();
     }
 }

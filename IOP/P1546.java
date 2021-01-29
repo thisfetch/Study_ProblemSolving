@@ -23,5 +23,6 @@ public class P1546 {
         }
         ave = sum / num;
         System.out.println(ave);
+        stdIn.close();
     }
 }

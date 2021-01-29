@@ -28,5 +28,6 @@ public class P1924 {
         } else {
             System.out.println("");
         }
+        stdIn.close();
     }
 }
